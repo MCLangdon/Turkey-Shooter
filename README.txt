@@ -1,0 +1,1 @@
+To play the game, run Turkey_Shooter.jar. Use the up and down arrow keys to change the angle of the canon and spacebar to fire a canonball. Canonballs are affected by wind and disappear after a few seconds.
